@@ -1,3 +1,4 @@
 fastapi == 0.65.2
 uvicorn == 0.14.0
+grevillea == 0.0.1 #ASGI deploy en cloud functions (GCP) para vercel no es necesario
 now == 0.0.6
